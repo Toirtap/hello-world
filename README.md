@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Just another repository
+Hi, this is my first readme.
+This is the readme inside the branch.
